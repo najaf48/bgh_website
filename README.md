@@ -1,2 +1,2 @@
 # A simple hospital website
-currently in devlopment
+currently in devlopment.
